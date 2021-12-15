@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 public class CustomCookieAuthenticationEvents : CookieAuthenticationEvents
 {
     
-
+    /*
     public CustomCookieAuthenticationEvents()
     {
 
@@ -28,4 +28,5 @@ public class CustomCookieAuthenticationEvents : CookieAuthenticationEvents
                 CookieAuthenticationDefaults.AuthenticationScheme);
         }
     }
+    */
 }

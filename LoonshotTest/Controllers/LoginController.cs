@@ -37,6 +37,7 @@ namespace LoonshotTest.Controllers
             return View();
         }
 
+        /*
         [HttpPost]
         [Route("/login/login")]
         public async Task<IActionResult> LoginProc([FromForm]LoginModel input)
@@ -62,7 +63,7 @@ namespace LoonshotTest.Controllers
             return null;
             
         }
-
+        */
 
         public IActionResult Register(string msg)
         {

@@ -45,7 +45,7 @@ namespace LoonshotTest.Controllers
 
             return View();
         }
-
+        
         public IActionResult PatientInsert([FromForm] PatientModel model)
         {
             

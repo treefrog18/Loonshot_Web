@@ -38,6 +38,8 @@ namespace LoonshotTest.Models.Login
             }
         }
 
+
+        /*
         internal LoginModel GetLoginUser(string staff_login_id)
         {
             
@@ -49,5 +51,6 @@ namespace LoonshotTest.Models.Login
             } 
 
         }
+        */
     }
 }
